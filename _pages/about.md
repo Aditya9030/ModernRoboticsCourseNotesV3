@@ -17,4 +17,3 @@ Thanks to [Haixing Hu's tutorial](https://haixing-hu.github.io/programming/2013/
 ## Copyright Information
 
 The course notes are based on Prof. Kevin Lynch's book \<Modern Robotics\> and related course materials. Contents of this website is Copyright by Muchen Sun. Please address usage inquiries to [Muchen Sun](mailto:muchensun2021@u.northwestern.edu).
-
